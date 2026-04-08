@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pyaudio
+openai
+python-dotenv
+pyautogui
+psutil

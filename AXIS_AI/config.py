@@ -1,0 +1,2 @@
+WAKE_WORD = "axis"
+VOICE_RATE = 170
